@@ -1,10 +1,8 @@
-# miniprojectfifa19
+# Description
 
-El presente proyecto se elabora como parte de las actividades del Bootcamp de DataAnalytics de Ironhack con el fin de implementar herramientas de análisis de datos a nivel de limpieza, exploración y tratamiento de datos a través de modelo de regresión multilinear Ordinary Least Squares. 
+Main goal: to implement data analysis tools to clean, explore and process data through Ordinary Least Squares Regression Analysis
+Database: FIFA21 https://www.kaggle.com/datasets/ekrembayar/fifa-21-complete-player-dataset?select=fifa21_male2.csv
 
-La base de datos utilizada es Fifa21, que se puede encontrar en el siguiente enlace: https://www.kaggle.com/datasets/ekrembayar/fifa-21-complete-player-dataset?select=fifa21_male2.csv
-
-# Planteamiento
 The research objective is to identify variables that affect player's market value in the event that a football club is considering investing in quarry players in order to sell them as an income diversification strategy in the mid-long term.
 
 For this purpose, 49 variables have been considered: 
